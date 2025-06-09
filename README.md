@@ -4,6 +4,7 @@ This project performs sentiment analysis on tweets using the TextBlob library. I
 
 ## 📂 Dataset
 - `tweets.csv` from Kaggle (pre-cleaned with `sentiment` and `text` columns)
+- Kaggle Link: "https://www.kaggle.com/datasets/kazanova/sentiment140"
 
 ## 🛠️ Tools & Libraries
 - Python
